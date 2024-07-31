@@ -1,2 +1,1 @@
-# ENIAC-discounts
-Business questions: Is it beneficial to initiate aggressive discounts?
+In this second data project with Eniac, the e-commerce tech company, my team and I worked with internal, non-anonymized data, tackling its complexity with Python rather than SQL. The project focused on resolving a key debate: the effectiveness of aggressive product discounts. The Marketing Team Lead believed discounts enhanced customer acquisition, satisfaction, and retention, fostering company growth. However, despite increasing orders, the Board was concerned that aggressive discounting might harm total revenue, preferring a quality-focused market position. Our analysis provided crucial insights into the company's discount strategy.
